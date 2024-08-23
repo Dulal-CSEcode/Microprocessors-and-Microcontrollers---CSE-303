@@ -8,7 +8,7 @@ Check out the playlist now and start your learning journey: [Microprocessors and
 <br />
 <img/>
 
-![Microprocessors and Microcontrollers](microprocessorsbanner.PNG)
+![Microprocessors and Microcontrollers](cse303banner.PNG)
   
 <br />  
 
