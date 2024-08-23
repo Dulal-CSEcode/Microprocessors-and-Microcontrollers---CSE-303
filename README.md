@@ -3,7 +3,7 @@
 <br />  
 Welcome to the Microprocessors and Microcontrollers CSE-303 repository. This repository contains course materials, assignments, and resources for the Microprocessors and Microcontrollers course.  
 <br />  
-Check out the playlist now and start your learning journey: [Microprocessors and Microcontrollers CSE-303 Youtube Playlist Link : ](https://youtube.com/playlist?list=your-playlist-link)
+Check out the playlist now and start your learning journey: [Microprocessors and Microcontrollers CSE-303 Youtube Playlist Link : ](https://youtube.com/playlist?list=PLEc-WcPXUsjsFoZ2CKQC9CTL5pTjo4vb_&si=jbU38IgoQfKbb8cE)
 **Happy Learning!**
 <br />
 <img/>
